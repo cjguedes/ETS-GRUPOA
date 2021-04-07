@@ -7,7 +7,7 @@ public class Area {
         // Variables para capturar las pulsaciones de teclado del usuario
 		BufferedReader teclado = new BufferedReader(new InputStreamReader(System.in));
         String valorEntrada;
-        
+        //Esto es una prueba
         
         System.out.println("---------------------------------------------");
         System.out.println(" CÁLCULO DEL ÁREA DE UN RECTÁNGULO");
